@@ -1,2 +1,4 @@
 This is my 1st GIT.Modified it.git 
 Automation code
+
+clone code
